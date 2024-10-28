@@ -1,0 +1,14 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.container-fluid {
+    margin-bottom: 60px;
+}
+
+span img {
+    width: 100px;
+}
